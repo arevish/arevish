@@ -1,15 +1,22 @@
-### Hi there 👋, My name is Vishal
-#### Design and Development
+![Visiter](https://gpvc.arturio.dev/arevish)  
+<img align='right' src='https://user-images.githubusercontent.com/91308138/161538146-1b81a600-c089-4d74-9e47-a726efd6c7d7.gif' width="500" height='300' />
+# Hi there 👋, My name is Vishal
 
-I'm Vishal from India, and I am an electronics and communication engineer turn coder. I really enjoy learning languages and framework like django, as well as work in wordpress. I also enjoy wireframing, ui, ux and design in general. 
+
+### Design and Development!
+
+
+
+I'm Vishal from India, and I am an Electronics and Communication Engineer turn Coder.<br> I really enjoy learning languages and framework like django, as well as work in wordpress.<br> I also enjoy wireframing, ui, ux and design in general. 
 
 
 ## Skills and Experience: 
-PYTHON
-DJANGO 
-HTML 
-CSS
-js
+
+* PYTHON
+* DJANGO 
+* HTML 
+* CSS
+* js
 
 ### Example of work
 <img src='https://user-images.githubusercontent.com/91308138/161383210-7c0cf10f-9c40-4ab7-b92c-473c09a99f5d.gif' width="256"/>
@@ -24,4 +31,4 @@ js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arevish&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/arevish)  
+

@@ -31,6 +31,6 @@ I'm Vishal from India, and I am an Electronics and Communication Engineer turn C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arevish&show_icons=true&count_private=true&theme=dark&hide=prs)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevish&repo=flask-blog-website)](https://github.com/arevish/flask-blog-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevish&repo=flask-blog-website)](https://github.com/arevish/flask-blog-website) &emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevish&repo=Sorting-Algorithim-Visualizer)](https://github.com/arevish/Sorting-Algorithim-Visualizer)
 <br>

@@ -12,11 +12,11 @@ I'm Vishal from India, and I am an Electronics and Communication Engineer turn C
 
 ## Skills and Experience: 
 
-* PYTHON
-* DJANGO 
-* HTML 
-* CSS
-* js
+* Next.js     * React.JS
+* Typescript  * TailwindCSS
+* Redux       * JavaScript 
+* PYTHON      * DJANGO 
+* HTML        * CSS
 
 ### Example of work
 [<img src='https://user-images.githubusercontent.com/91308138/161383210-7c0cf10f-9c40-4ab7-b92c-473c09a99f5d.gif' width="256"/>](https://github.com/arevish/Sudoku-solver-GUI) &emsp; [<img src='https://user-images.githubusercontent.com/91308138/184954955-f242b75c-d761-4d91-805a-d42803decea0.gif' width="280"/>](https://github.com/arevish/A-PathFinding-Visualizer)
